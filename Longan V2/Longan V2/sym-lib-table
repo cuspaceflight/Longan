@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "RA-01")(type "Legacy")(uri "C:/Users/willi/OneDrive/Documents/HABS/Longan/Longan V2/Symbols and Footprints/RA-01/RA-01.lib")(options "")(descr ""))
+  (lib (name "MAX-M8C-0")(type "Legacy")(uri "C:/Users/willi/OneDrive/Documents/HABS/Longan/Longan V2/Symbols and Footprints/MAX-M8C-0/MAX-M8C-0.lib")(options "")(descr ""))
+)
